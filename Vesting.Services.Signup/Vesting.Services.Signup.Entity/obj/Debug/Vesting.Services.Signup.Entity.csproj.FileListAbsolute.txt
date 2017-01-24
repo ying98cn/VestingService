@@ -1,0 +1,4 @@
+C:\Vesting Projects\Vesting.Services.Signup\Vesting.Services.Signup.Entity\bin\Debug\Vesting.Services.Signup.Entity.dll
+C:\Vesting Projects\Vesting.Services.Signup\Vesting.Services.Signup.Entity\bin\Debug\Vesting.Services.Signup.Entity.pdb
+C:\Vesting Projects\Vesting.Services.Signup\Vesting.Services.Signup.Entity\obj\Debug\Vesting.Services.Signup.Entity.dll
+C:\Vesting Projects\Vesting.Services.Signup\Vesting.Services.Signup.Entity\obj\Debug\Vesting.Services.Signup.Entity.pdb
